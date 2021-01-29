@@ -1,5 +1,7 @@
 # What is new in XR this week
 
+A curated list of eXtended reality news #VR #AR 
+
 ## Release 1.0 - 2021-01-29
 
 - [Spark AR Curriculum](https://sparkar.facebook.com/blog/introducing-spark-ar-curriculum/)
