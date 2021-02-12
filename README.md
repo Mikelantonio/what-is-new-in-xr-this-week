@@ -2,6 +2,16 @@
 
 A curated list of eXtended reality news #VR #AR 
 
+## Release 3.0 - 2021-02-12
+
+- [Poker with AI + AR](https://twitter.com/steube/status/1357785865154662400?s=09)
+- [Cocos game engine adds 3D](https://venturebeat.com/2021/02/08/cocos-adds-3d-to-its-open-source-2d-game-engine-with-cocos-creator-3-0/)
+- [AR Installation idea for retail](https://www.linkedin.com/posts/ajjames_amazing-installation-video-where-could-ugcPost-6763507071812935681-DP3H/)
+- [Apple - Dan Riccio shifts to chief of AR/VR headsets](https://www.bloomberg.com/news/articles/2021-02-08/apple-s-riccio-shifts-from-hardware-chief-to-ar-vr-headsets)
+- [Apple is recruiting AR/VR research engineers](https://jobs.apple.com/en-us/details/200222899/ar-vr-research-engineer?team=MLAI)
+- [Google Removes 3D and AR Early Adopters Program](https://www.seroundtable.com/google-drops-3d-and-ar-early-adopters-program-30897.html)
+- [3D Scene Understanding with TensorFlow 3D](https://ai.googleblog.com/2021/02/3d-scene-understanding-with-tensorflow.html)
+
 ## Release 2.0 - 2021-02-05
 
 - [Microsoft debuts Hololens 2 Industrial Edition](https://hololens.reality.news/news/microsoft-debuts-hololens-2-industrial-edition-for-pharmaceutical-semiconductor-enterprise-users-0384296/)
