@@ -2,6 +2,14 @@
 
 A curated list of eXtended reality news #VR #AR 
 
+## Release 4.0 - 2021-02-19
+
+- [Interview to the CEO of Kura - AR glasses with 150° FOV](https://skarredghost.com/2021/02/18/kura-150-fov-release-date-price/)
+- [How to play with Perseverance in AR](https://mobile-ar.reality.news/news/you-can-land-drive-nasas-perseverance-mars-rover-ar-with-smithsonian-channels-new-app-0384356/)
+- [Magic Leap last OS update](https://magic-leap.reality.news/news/magic-leaps-latest-lumin-os-sdk-releases-focus-features-for-enterprise-customers-0384357/)
+- [EdgyBees funding for aerial video augmentation service](https://techcrunch.com/2021/02/17/edgybees-raises-9-5m-series-a-for-its-aerial-video-augmentation-service/)
+- [Virtual handshake with hand tracking](https://www.linkedin.com/posts/dkuhnert_handtracking-spatialcomputing-vr-ugcPost-6766041313088430080-1S8K/)
+
 ## Release 3.0 - 2021-02-12
 
 - [Poker with AI + AR](https://twitter.com/steube/status/1357785865154662400?s=09)
