@@ -2,6 +2,14 @@
 
 A curated list of eXtended reality news #VR #AR 
 
+## Release 5.0 - 2021-02-26
+
+- [Snapchat lens studio update](https://next.reality.news/news/snaps-lens-studio-3-4-update-improves-hand-body-tracking-for-snapchat-ar-effects-adds-asset-library-0384386/)
+- [NReal will arrive in Europe and U.S.](https://www.xda-developers.com/nreal-light-glasses-launching-europe-us/)
+- [Snapdragon unleashes its own XR smart glass reference design](https://next.reality.news/news/qualcomm-unleashes-its-own-snapdragon-xr1-ar-smart-viewer-reference-design-support-ar-smartglasses-makers-0384378/)
+- [XR ethics white paper needs for help](https://voicesofvr.com/976-xr-ethics-white-paper-invitation-from-launch-of-the-ieee-global-initiative-of-the-ethics-of-extended-reality/)
+- [Samsung XR glass leaked?](https://bgr.com/2021/02/22/samsung-smart-glasses-leak-lite-and-ar-concept-videos/)
+
 ## Release 4.0 - 2021-02-19
 
 - [Interview to the CEO of Kura - AR glasses with 150° FOV](https://skarredghost.com/2021/02/18/kura-150-fov-release-date-price/)
