@@ -2,6 +2,14 @@
 
 A curated list of eXtended reality news #VR #AR 
 
+## Release 6.0 - 2021-03-05
+
+- [Epson shows the new Moverio](https://augmented.reality.news/news/epson-boosts-display-specs-adds-optional-android-controller-moverio-bt-40-series-smartglasses-0384400/)
+- [Gonna catch 'em all with Hololens 2](https://www.youtube.com/watch?v=ICaWblVgv6A)
+- [Microsoft presents Mesh a new XR collaboration tool](https://www.vrfocus.com/2021/03/microsoft-mesh-to-enable-shared-experiences-across-xr-platforms/)
+- [Let's enter into Wandavision world with this Facebook Messenger AR filter](https://mobile-ar.reality.news/news/visit-wandavisions-reality-bending-living-room-with-facebook-messenger-ar-portal-0384398/)
+- [WebXR Wonderland Engine goes free](https://www.vrfocus.com/2021/03/webxr-platform-wonderland-engine-moves-to-free-royalty-based-model/)
+
 ## Release 5.0 - 2021-02-26
 
 - [Snapchat lens studio update](https://next.reality.news/news/snaps-lens-studio-3-4-update-improves-hand-body-tracking-for-snapchat-ar-effects-adds-asset-library-0384386/)
