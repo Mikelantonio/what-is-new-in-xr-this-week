@@ -2,6 +2,14 @@
 
 A curated list of eXtended reality news #VR #AR 
 
+## Release 7.0 - 2021-13-12
+
+- [Let's play music in AR with Google](https://mobile-ar.reality.news/news/google-arts-culture-drops-ar-synth-exhibit-you-can-play-0384433/)
+- [VisualLive joins Unity](https://blogs.unity3d.com/2021/03/09/visuallive-joins-unity/?s=09)
+- [Video Avatar feature is released on Mozilla Hubs](https://twitter.com/MozillaHubs/status/1369291386915225605?s=09)
+- [It's available a new export feature from Poly3D to sketchfab](https://uploadvr.com/sketchfab-poly-export-tool/)
+- [The real dead of Google Cardboard](https://uploadvr.com/google-ends-cardboard-vr-sales/)
+
 ## Release 6.0 - 2021-03-05
 
 - [Epson shows the new Moverio](https://augmented.reality.news/news/epson-boosts-display-specs-adds-optional-android-controller-moverio-bt-40-series-smartglasses-0384400/)
