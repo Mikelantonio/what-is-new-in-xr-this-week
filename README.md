@@ -1,8 +1,15 @@
 # What is new in XR this week
 
-A curated list of eXtended reality news #VR #AR 
+A curated list of eXtended reality news #VR #AR
 
-## Release 7.0 - 2021-13-12
+## Release 8.0 - 2021-03-19
+
+- [CapturingReality joins Epic games](https://www.epicgames.com/site/en-US/news/capturing-reality-is-now-part-of-epic-games?s=09)
+- [Pizza hut turns its pizza boxes into AR Pac-man game](https://mobile-ar.reality.news/news/pizza-hut-delivery-now-comes-with-slice-80s-gaming-via-pac-man-ar-0384444/)
+- [Facebook augmented reality wristband](https://next.reality.news/news/facebook-plans-enhance-hand-gestures-for-future-ar-smartglasses-with-wristband-can-read-nerve-signals-0384455/)
+- [Playstation VR2 Controllers Revealed](https://www.youtube.com/watch?v=zg1Uv1v7YJY)
+
+## Release 7.0 - 2021-03-12
 
 - [Let's play music in AR with Google](https://mobile-ar.reality.news/news/google-arts-culture-drops-ar-synth-exhibit-you-can-play-0384433/)
 - [VisualLive joins Unity](https://blogs.unity3d.com/2021/03/09/visuallive-joins-unity/?s=09)
