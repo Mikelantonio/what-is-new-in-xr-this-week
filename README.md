@@ -2,6 +2,15 @@
 
 A curated list of eXtended reality news #VR #AR
 
+## Release 9.0 - 2021-04-09
+
+- [Will Niantic release its own AR Glasses?](https://uploadvr.com/pokemon-niantic-ar-glasses/)
+- [Google Maps will improve 3d Maps and AR indoor navigation](https://techcrunch.com/2021/03/30/google-promises-better-3d-maps/)
+- [Microsoft gets contract for $22 billion with US Army for AR headsets](https://techcrunch.com/2021/03/31/microsoft-wins-contract-worth-up-to-22-billion-to-outfit-u-s-army-with-120000-ar-headsets/)
+- [Neural network for 3d reconstruction with monocular video](https://twitter.com/ak92501/status/1377810608964448258?s=09)
+- [Let's play Floom, the new WebXR experiment by Google](https://experiments.withgoogle.com/collection/webxr)
+- [Apple is betting on AR](https://www.zdnet.com/article/tim-cook-augmented-reality-is-critical-to-apples-future/)
+
 ## Release 8.0 - 2021-03-19
 
 - [CapturingReality joins Epic games](https://www.epicgames.com/site/en-US/news/capturing-reality-is-now-part-of-epic-games?s=09)
