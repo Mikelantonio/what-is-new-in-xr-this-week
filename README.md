@@ -2,6 +2,14 @@
 
 A curated list of eXtended reality news #VR #AR
 
+## Release 10.0 - 2021-04-16
+
+- [Monster Mash: A Sketch-Based Tool for Casual 3D Modeling and Animation](https://ai.googleblog.com/2021/04/monster-mash-sketch-based-tool-for.html)
+- [Microsoft is piloting Mac OS support for its social service AltspaceVR](https://uploadvr.com/altspace-mac-version)
+- [SignAll SDK: Sign language interface using MediaPipe is now available for developers](https://developers.googleblog.com/2021/04/signall-sdk-sign-language-interface-using-mediapipe-now-available.html)
+- [Physical keyboard is now available in VR space!](https://twitter.com/rainbowbreeze/status/1382429604720312325?s=09)
+- [Epic Games: 1 billion to create the Ready Player One metaverse](https://www.tomshw.it/videogioco/epic-games-1-miliardo-per-creare-un-metaverso-tipo-ready-player-one/)
+
 ## Release 9.0 - 2021-04-09
 
 - [Will Niantic release its own AR Glasses?](https://uploadvr.com/pokemon-niantic-ar-glasses/)
