@@ -2,6 +2,14 @@
 
 A curated list of eXtended reality news #VR #AR
 
+## Release 11.0 - 2021-04-23
+
+- [IKEA’s fancy new AR app lets you design entire rooms](https://www.wired.co.uk/article/ikea-studio-ar-app)
+- [AR DevKit from deutsch Telekom](https://twitter.com/tooztech/status/1382589717326262272?s=09)
+- [A QRCode in the sky](https://twitter.com/Scobleizer/status/1383674679215333383?s=09)
+- [Hello Kitty and other new AR Models from Google](https://blog.google/around-the-globe/google-asia/japanese-characters-ar/)
+- [Amazon is opening a London hair salon to test AR technologies](https://techcrunch.com/2021/04/20/amazon-is-opening-a-london-hair-salon-to-test-ar-and-other-retail-technologies/)
+
 ## Release 10.0 - 2021-04-16
 
 - [Monster Mash: A Sketch-Based Tool for Casual 3D Modeling and Animation](https://ai.googleblog.com/2021/04/monster-mash-sketch-based-tool-for.html)
