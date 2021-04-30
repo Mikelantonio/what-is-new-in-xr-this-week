@@ -2,6 +2,12 @@
 
 A curated list of eXtended reality news #VR #AR
 
+## Release 12.0 - 2021-04-30
+
+- [Enter into the Witcher world: Early access to Monster Slayer AR app](https://mobile-ar.reality.news/news/netflix-fantasy-franchise-the-witcher-opens-early-access-ar-game-called-monster-slayer-0384594/)
+- [Snap acquires Pixel8.earth to map the world in 3d](https://next.reality.news/news/snaps-acquisition-3d-mapping-startup-signals-move-build-ar-cloud-0384595/)
+- [Meta AR Headset reborn](https://uploadvr.com/campfire-meta-ar/)
+
 ## Release 11.0 - 2021-04-23
 
 - [IKEA’s fancy new AR app lets you design entire rooms](https://www.wired.co.uk/article/ikea-studio-ar-app)
