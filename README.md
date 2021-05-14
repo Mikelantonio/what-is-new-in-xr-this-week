@@ -2,6 +2,15 @@
 
 A curated list of eXtended reality news #VR #AR
 
+## Release 13.0 - 2021-05-14
+
+- [A new way to make AR/VR glasses](https://www.rochester.edu/newscenter/a-new-way-to-make-ar-vr-glasses-476742/)
+- [Campfire CEO Jay Wright on How He Plans to Use AR to Transform How We Work & Collaborate](https://next.reality.news/news/campfire-ceo-jay-wright-he-plans-use-ar-transform-we-work-collaborate-0384623/)
+- [Researchers Are Using Laser Beams To Create 3D Holograms](https://vrscout.com/news/researchers-use-laser-beams-to-create-holograms/)
+- [Niantic Opens Private Beta for AR Cloud Platform Now Called Lightship](https://next.reality.news/news/niantic-opens-private-beta-for-ar-cloud-platform-now-called-lightship-0384633/)
+- [Spatial unveils web browser collaboration in 3D workspace and NFT virtual galleries](https://venturebeat.com/2021/05/13/spatial-unveils-web-browser-collaboration-in-3d-workspace-and-nft-virtual-galleries/)
+- [Let's play tetris on the wall of a building](https://twitter.com/TheDigital3D/status/1392888890499948545?s=09)
+
 ## Release 12.0 - 2021-04-30
 
 - [Enter into the Witcher world: Early access to Monster Slayer AR app](https://mobile-ar.reality.news/news/netflix-fantasy-franchise-the-witcher-opens-early-access-ar-game-called-monster-slayer-0384594/)
