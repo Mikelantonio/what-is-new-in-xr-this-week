@@ -2,6 +2,16 @@
 
 A curated list of eXtended reality news #VR #AR
 
+## Release 14.0 - 2021-05-21
+
+- [Google is making a 3d life size video calling booth](https://techcrunch.com/2021/05/18/google-is-making-a-3d-life-size-video-calling-booth/)
+- [VP of VR is leaving Facebook](https://uploadvr.com/hugo-barra-leaving-facebook/)
+- [DigiLens Forges Reference Design for Smartglasses with 50 Degree Field of View](https://next.reality.news/news/digilens-forges-reference-design-for-smartglasses-with-50-degree-field-view-0384637/)
+- [ARCore Updates](https://developers.googleblog.com/2021/05/unlock-use-cases-and-increase-developer-velocity-with-new-capabilities-in-arcore.html)
+- [Snapchat lens studio 4.0 is here with a lot of updates](https://next.reality.news/news/snap-now-lets-you-build-lego-ar-remotely-with-others-reveals-ar-tie-up-with-disney-plus-ar-business-tools-0384665/)
+- [Snapchat unveils AR glasses](https://arinsider.co/2021/05/20/snap-unveils-ar-glasses/)
+
+
 ## Release 13.0 - 2021-05-14
 
 - [A new way to make AR/VR glasses](https://www.rochester.edu/newscenter/a-new-way-to-make-ar-vr-glasses-476742/)
