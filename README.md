@@ -2,6 +2,15 @@
 
 A curated list of eXtended reality news #VR #AR
 
+## Release 14.1 - 2021-06-21
+
+- [Zuckerberg Explains Why Facebook Is Building A ‘Reality Operating System’](https://uploadvr.com/zuckerberg-reality-platform-operating-system/)
+- [Facebook’s Spark AR platform expands to video calling with Multipeer API](https://techcrunch.com/2021/06/02/facebooks-spark-ar-platform-expands-to-video-calling-with-multipeer-api/)
+- [The Metaverse Value-Chain](https://medium.com/building-the-metaverse/the-metaverse-value-chain-afcf9e09e3a7)
+- [ThirdEye Announces Investment Fund for AR Software Providers](https://arpost.co/2021/05/27/thirdeye-investment-fund-ar-software/)
+- [Cool infographic: #AR and #VR in the Gartner hype cycle over the last years](https://twitter.com/SkarredGhost/status/1396549995621273603?s=09)
+- [Amazing MRTK plugin for posing & snapping objects](https://assetstore.unity.com/packages/tools/utilities/hptk-posing-snapping-177933)
+
 ## Release 14.0 - 2021-05-21
 
 - [Google is making a 3d life size video calling booth](https://techcrunch.com/2021/05/18/google-is-making-a-3d-life-size-video-calling-booth/)
