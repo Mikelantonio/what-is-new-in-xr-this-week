@@ -2,7 +2,7 @@
 
 A curated list of eXtended reality news #VR #AR
 
-## Release 14.1 - 2021-06-21
+## Release 15.0 - 2021-06-04
 
 - [Zuckerberg Explains Why Facebook Is Building A ‘Reality Operating System’](https://uploadvr.com/zuckerberg-reality-platform-operating-system/)
 - [Facebook’s Spark AR platform expands to video calling with Multipeer API](https://techcrunch.com/2021/06/02/facebooks-spark-ar-platform-expands-to-video-calling-with-multipeer-api/)
