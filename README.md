@@ -2,6 +2,14 @@
 
 A curated list of eXtended reality news #VR #AR
 
+## Release 16.0 - 2021-06-18
+
+- [Apple’s RealityKit 2 allows developers to create 3D models for AR using iPhone photos](https://techcrunch.com/2021/06/08/apples-realitykit-2-allows-developers-to-create-3d-models-for-ar-using-iphone-photos/)
+- [Microsoft emerges from the Trenches with more details behind the Army edition of Hololens 2](https://hololens.reality.news/news/microsoft-emerges-from-trenches-with-more-details-behind-army-edition-hololens-2-0384713/)
+- [Grow Glide Launches AR Tool For Cannabis Farmers](https://vrscout.com/news/grow-glide-ar-tool-for-cannabis-farmers/)
+- [Everyone you know is a Disney princess, which means AR is queen](https://techcrunch.com/2021/06/14/everyone-you-know-is-a-disney-princess-which-means-ar-is-queen/)
+- [Facebook Develops AI That Can Copy Typefaces & Edit Text in AR](https://next.reality.news/news/facebook-develops-ai-can-copy-typefaces-edit-text-ar-0384746/)
+
 ## Release 15.0 - 2021-06-04
 
 - [Zuckerberg Explains Why Facebook Is Building A ‘Reality Operating System’](https://uploadvr.com/zuckerberg-reality-platform-operating-system/)
