@@ -2,6 +2,14 @@
 
 A curated list of eXtended reality news #VR #AR
 
+## Release 17.0 - 2021-07-16
+
+- [Key Google AR/VR Director heads to Facebook Reality Labs](https://uploadvr.com/google-talent-leaving/)
+- [Facebook’s new AR feature for Portal lets you dress up as Harry Potter characters
+2](https://www.theverge.com/2021/7/7/22566878/facebook-ar-harry-potter-cursed-child-characters)
+- [Amazon shifts Lumberyard to open source 3D game engine supported by 20 companies](https://venturebeat.com/2021/07/06/amazons-lumberyard-becomes-an-open-source-3d-game-engine-with-support-from-20-companies/)
+- [Augmented reality: how the future meets the present at cement plants in Italy](https://blog.heidelbergcement.com/en/augmented-reality-future-cement-plant-italy?utm_source=LINKEDIN&utm_medium=social&utm_campaign=https%3A%2F%2Fblog.heidelbergcement.com%2Fen%2Faugmented-reality-future-cement-plant-italy)
+
 ## Release 16.0 - 2021-06-18
 
 - [Apple’s RealityKit 2 allows developers to create 3D models for AR using iPhone photos](https://techcrunch.com/2021/06/08/apples-realitykit-2-allows-developers-to-create-3d-models-for-ar-using-iphone-photos/)
