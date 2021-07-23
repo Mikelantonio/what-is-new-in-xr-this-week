@@ -2,6 +2,13 @@
 
 A curated list of eXtended reality news #VR #AR
 
+## Release 18.0 - 2021-07-23
+
+- [PhotoCatch: 3D Scanning App That Converts Photos to AR Objects](https://arpost.co/2021/07/19/photocatch-3d-scanning-app-photos-ar-objects/)
+- [Snap Adds Upper Garment Segmentation, Multiple Object Detection, & More with Lens Studio 4.1](https://next.reality.news/news/snap-adds-upper-garment-segmentation-multiple-object-detection-more-with-lens-studio-4-1-0384814/)
+- [Oculus Quest v31 Adds Experimental Passthrough API For Mixed Reality](https://uploadvr.com/oculus-quest-v31-passthrough-ar/)
+- [3D Hosting Service Sketchfab Joins Epic Games](https://uploadvr.com/sketchfab-epic-games/)
+
 ## Release 17.0 - 2021-07-16
 
 - [Key Google AR/VR Director heads to Facebook Reality Labs](https://uploadvr.com/google-talent-leaving/)
