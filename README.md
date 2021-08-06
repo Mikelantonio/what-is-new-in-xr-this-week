@@ -2,6 +2,14 @@
 
 A curated list of eXtended reality news #VR #AR
 
+## Release 19.0 - 2021-08-06
+- [Facebook can project your eyes onto a VR headset, and it’s exactly as uncanny as it sounds](https://www.theverge.com/2021/8/4/22609564/facebook-reality-lab-reverse-passthrough-vr-prototype-research-siggraph)
+- [ProtoRes: Proto-Residual Architecture for Deep Modeling of Human Pose](https://unity-technologies.github.io/Labs/protores.html)
+- [Facebook's Smartglasses Are the New AR Hype, but It's Becoming Clearer That a Metaverse Platform War Is Coming](https://next.reality.news/news/facebooks-smartglasses-are-new-ar-hype-but-its-becoming-clearer-metaverse-platform-war-is-coming-0384823/)
+- [This Is How Japanese Wireless Giant Docomo Is Using the HoloLens 2 to Add AR to the Olympics](https://next.reality.news/news/is-japanese-wireless-giant-docomo-is-using-hololens-2-add-ar-olympics-0384816/)
+- [Quest 2 Experimental Mixed Reality & Passthrough API Details](https://uploadvr.com/mixed-realiy-passthrough-api/)
+- [Facebook Deprecates Proprietary Oculus APIs In Favor Of OpenXR](https://uploadvr.com/facebook-deprecates-oculus/)
+
 ## Release 18.0 - 2021-07-23
 
 - [PhotoCatch: 3D Scanning App That Converts Photos to AR Objects](https://arpost.co/2021/07/19/photocatch-3d-scanning-app-photos-ar-objects/)
