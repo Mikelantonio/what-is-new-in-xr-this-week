@@ -1,6 +1,10 @@
 # What is new in XR this week
 
-A curated list of eXtended reality news #VR #AR
+A curated list of eXtended reality news #VR #AR #XR
+
+## Release 20.0 - 2021-08-27
+- [Facebook’s ‘Horizon Workrooms’ Is VR Coworking At Its Finest](https://vrscout.com/news/facebooks-horizon-workrooms-is-vr-coworking-at-its-finest/)
+- [Nextech AR Selected By Google As An Early Access Partner for It’s 3D AR Search Program](https://finance.yahoo.com/news/nextech-ar-selected-google-early-113000438.html)
 
 ## Release 19.0 - 2021-08-06
 - [Facebook can project your eyes onto a VR headset, and it’s exactly as uncanny as it sounds](https://www.theverge.com/2021/8/4/22609564/facebook-reality-lab-reverse-passthrough-vr-prototype-research-siggraph)
