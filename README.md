@@ -2,6 +2,17 @@
 
 A curated list of eXtended reality news #VR #AR #XR
 
+## Release 21.0 - 2021-09-17
+
+- [This Is How the Augmented Reality World of the Metaverse Could Be Opened to the Visually Impaired](https://next.reality.news/news/is-augmented-reality-world-metaverse-could-be-opened-visually-impaired-0384837/)
+- [Augmented reality applications are helping astronauts repair the ISS](https://www.slashgear.com/augmented-reality-applications-are-helping-astronauts-repair-the-iss-03689480/)
+- [YOU CAN NOW 3D SCAN OBJECTS WITH ANY IPHONE – EVEN IF IT DOESN’T HAVE A LIDAR SENSOR](https://www.diyphotography.net/you-can-now-3d-scan-objects-with-any-iphone-even-if-it-doesnt-have-a-lidar-sensor/)
+- [XR Education in 2021](https://arpost.co/2021/09/07/xr-education-in-2021/)
+- [Facebook Reveals $299 Ray-Ban Stories Smartglasses With Camera And Assistant](https://uploadvr.com/facebook-ray-ban-stories-revealed/)
+- [Volu is an AR Creation App That Only Needs Your iPhone’s Cameras](https://petapixel.com/2021/09/09/volu-is-an-ar-creation-app-that-only-needs-your-iphones-cameras/)
+- [How To Use Live Overlay On The Oculus Quest 2](https://vrscout.com/news/how-to-use-live-overlay-on-the-oculus-quest-2/)
+- [Xiaomi unveils its smartglasses](https://skarredghost.com/2021/09/14/xiaomi-smartglasses-announced/)
+
 ## Release 20.0 - 2021-08-27
 - [Facebook’s ‘Horizon Workrooms’ Is VR Coworking At Its Finest](https://vrscout.com/news/facebooks-horizon-workrooms-is-vr-coworking-at-its-finest/)
 - [Nextech AR Selected By Google As An Early Access Partner for It’s 3D AR Search Program](https://finance.yahoo.com/news/nextech-ar-selected-google-early-113000438.html)
