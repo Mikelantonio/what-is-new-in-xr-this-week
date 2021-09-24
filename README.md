@@ -2,6 +2,13 @@
 
 A curated list of eXtended reality news #VR #AR #XR
 
+## Release 22.0 - 2021-09-24
+
+- [iPhone 13 is further proof that the phone is quietly turning into an AR machine](https://www.cnet.com/tech/mobile/iphone-13-is-further-proof-that-the-phone-is-quietly-turning-into-an-ar-machine/)
+- [Andrew Bosworth To Take Over As Facebook CTO In 2022](https://uploadvr.com/andrew-bosworth-facebook-cto/)
+- [Google Adds Famous Monuments & Iconic Buildings to Augmented Reality Search Feature](https://mobile-ar.reality.news/news/google-adds-famous-monuments-iconic-buildings-augmented-reality-search-feature-0384865/)
+- [Assemblr Web-Based AR Player Brings New Technologies Closer to All Users](https://arpost.co/2021/09/23/assemblr-web-based-ar-player/)
+
 ## Release 21.0 - 2021-09-17
 
 - [This Is How the Augmented Reality World of the Metaverse Could Be Opened to the Visually Impaired](https://next.reality.news/news/is-augmented-reality-world-metaverse-could-be-opened-visually-impaired-0384837/)
